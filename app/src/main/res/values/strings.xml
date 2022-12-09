@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Actividad4</string>
+    <string name="creditcard">CreditCard</string>
+    <string name="save">save</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="sexo">Sexo:</string>
+    <string name="nif">NIF</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="estudiante">Estudiante</string>
+    <string name="nombre">Nombre</string>
+    <string name="n_mero_de_tarjeta">Número de tarjeta</string>
+    <string name="mes">Mes</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="a_o">Año</string>
+    <string name="cvc">CVC</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
